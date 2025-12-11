@@ -1,0 +1,16 @@
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Bases de données SQLite
+*.db
+
+# Environnement virtuel
+venv/
+.env/
+
+# Fichiers système
+.DS_Store
